@@ -1,5 +1,6 @@
-## Hi there 👋
+## WELCOME TO MY PAGE 👋
 
+My name is Duc Hieu, and I am a final-year IT student majoring in Information Systems. I have a strong interest in Deep Learning in Computer Vision 
 <!--
 **hieuducle/hieuducle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
