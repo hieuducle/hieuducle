@@ -1,6 +1,6 @@
 ## WELCOME TO MY PAGE 👋
 
-My name is Duc Hieu, and I am a final-year IT student majoring in Information Systems. I have a strong interest in Deep Learning in Computer Vision 
+Hi, I'm Duc Hieu — a final-year IT student majoring in Information Systems. I'm passionate about Deep Learning in Computer Vision and have worked on various projects in this field. Additionally, I have experience with software programming and machine learning."
 <!--
 **hieuducle/hieuducle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
