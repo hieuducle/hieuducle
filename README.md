@@ -9,7 +9,7 @@ Hi, I'm Duc Hieu — a final-year IT student majoring in Information Systems. I'
 <a href="https://github.com/hieuducle/PriceVision/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieuducle&repo=PriceVision&theme=merko" />
-</a>    
+</a>
 
 <a href="https://github.com/hieuducle/RoadCarVision/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -18,7 +18,7 @@ Hi, I'm Duc Hieu — a final-year IT student majoring in Information Systems. I'
 <a href="https://github.com/hieuducle/studenScore/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieuducle&repo=studenScore&theme=dark" />
-</a>    
+</a>
 
 <!--
 **hieuducle/hieuducle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
