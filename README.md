@@ -18,6 +18,9 @@ Hi, I'm Duc Hieu — a final-year IT student majoring in Information Systems. I'
   <a href="https://github.com/hieuducle/CountingPushUp/">
     <img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieuducle&repo=CountingPushUp&theme=gruvbox" />
   </a>
+  <a href="https://github.com/hieuducle/Chicken/">
+    <img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieuducle&repo=Chicken&theme=gruvbox" />
+  </a>
   <a href="https://github.com/hieuducle/studenScore/">
     <img width="400" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=hieuducle&repo=studenScore&theme=dark" />
   </a>
